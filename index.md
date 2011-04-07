@@ -13,11 +13,9 @@ layout: default
 ### Index
 * [Overview](#overview)
 * [Basics](#basics)
-
    * [Prefix](#prefix)
    * [Client](#client)
    * [Logging](#logging)
-
 * [Models](#models)
 
    * [Methods](#methods)
